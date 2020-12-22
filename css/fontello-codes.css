@@ -3,3 +3,7 @@
 .icon-volume-down:before { content: '\e801'; } /* '' */
 .icon-volume-up:before { content: '\e802'; } /* '' */
 .icon-headphones:before { content: '\e803'; } /* '' */
+.icon-videocam:before { content: '\e805'; } /* '' */
+.icon-camera:before { content: '\e806'; } /* '' */
+.icon-help-circled:before { content: '\e807'; } /* '' */
+.icon-mail-alt:before { content: '\f0e0'; } /* '' */

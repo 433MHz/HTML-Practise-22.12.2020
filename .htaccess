@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+ 
+ RewriteRule strona-google https://www.google.com
+ RewriteRule strona-volume volume.html
+ RewriteRule strona-camera camera.html
