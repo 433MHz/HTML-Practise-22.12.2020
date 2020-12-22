@@ -1,0 +1,5 @@
+
+.icon-volume-off:before { content: '\e800'; } /* '' */
+.icon-volume-down:before { content: '\e801'; } /* '' */
+.icon-volume-up:before { content: '\e802'; } /* '' */
+.icon-headphones:before { content: '\e803'; } /* '' */
